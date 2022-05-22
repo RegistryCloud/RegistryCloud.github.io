@@ -1,13 +1,20 @@
 ---
 layout: page
-title: submenus
+title: modules
 nav: true
-nav_order: 3
+nav_order: 2
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
-    - title: divider
-    - title: projects
+    - title: project management
+      permalink: /pm/
+    - title: user management
+      permalink: /um/
+    - title: form management
+      permalink: /fm/
+    - title: reporting
+      permalink: /projects/
+    - title: messaging
+      permalink: /projects/
+    - title: autoML
       permalink: /projects/
 ---

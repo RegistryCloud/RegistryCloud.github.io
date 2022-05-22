@@ -6,15 +6,15 @@ nav_order: 1
 dropdown: true
 children: 
     - title: project management
-      permalink: /pm/
+      permalink: /projects/pm
     - title: user management
-      permalink: /um/
+      permalink: /projects/um
     - title: form management
-      permalink: /fm/
+      permalink: /projects/fm
     - title: reporting
-      permalink: /projects/
+      permalink: /projects/rm
     - title: messaging
-      permalink: /projects/
+      permalink: /projects/mm
     - title: autoML
-      permalink: /projects/
+      permalink: /projects/ml
 ---

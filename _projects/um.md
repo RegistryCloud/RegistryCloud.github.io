@@ -7,8 +7,7 @@ importance: 2
 category: work
 ---
 
-The user management module is a service which enables users to both register/login the website and manage the contributers of the projects. With this module users can register the system and login securely. In addition they can edit their profile and change/manage their password and informations. Moreover after they create a project they can edit the project’s contributers.
-
+The user management module is a module that enables users to both register/login to the website and manage the contributors of the projects. With this module, users can register the system and login securely. In addition, they can edit their profile and change/manage their password and information. Moreover, after they create a project they can edit the project’s contributors.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -16,7 +15,7 @@ The user management module is a service which enables users to both register/log
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Login Screen
 </div>
 
 <div class="row">
@@ -25,7 +24,7 @@ The user management module is a service which enables users to both register/log
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+   
 </div>
 
 <div class="row">
@@ -34,7 +33,7 @@ The user management module is a service which enables users to both register/log
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Inviting a contributor to the project
 </div>
 
 <div class="row">
@@ -43,7 +42,7 @@ The user management module is a service which enables users to both register/log
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    
 </div>
 
 <div class="row">
@@ -52,7 +51,7 @@ The user management module is a service which enables users to both register/log
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Listing all contributors
 </div>
 
 <div class="row">
@@ -61,7 +60,7 @@ The user management module is a service which enables users to both register/log
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Removing, Inviting contributors
 </div>
 
 <div class="row">
@@ -70,5 +69,5 @@ The user management module is a service which enables users to both register/log
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+   Forgot Password Screen
 </div>

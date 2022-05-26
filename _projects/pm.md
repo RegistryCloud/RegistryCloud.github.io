@@ -7,8 +7,7 @@ importance: 1
 category: work
 ---
 
-The project module is a service which enables users to create projects that contains patient records, forms and analyse reports with multiple contibutors. With this module, researches can store their patient records and forms answers on their project. In addition they can share results and reports with other project contributers and make communications with their teammates. Some project management screenshots are provided
-
+The project module is a service that enables users to create projects that contain patient records, forms, and analyse reports with multiple contributors. With this module, researchers can store their patient records and form answers on their projects. In addition, they can share results and reports with other project contributors and make communications with their teammates.
 
 
 <div class="row">
@@ -17,7 +16,7 @@ The project module is a service which enables users to create projects that cont
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Creation of a new project
 </div>
 
 <div class="row">
@@ -26,7 +25,7 @@ The project module is a service which enables users to create projects that cont
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Confirmation screen
 </div>
 
 <div class="row">
@@ -35,5 +34,5 @@ The project module is a service which enables users to create projects that cont
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Listing of the user's project
 </div>
